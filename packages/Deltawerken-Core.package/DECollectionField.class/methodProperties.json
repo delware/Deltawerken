@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createReport" : "DiegoLont 8/26/2012 10:01",
+		"createReportFrom:" : "DiegoLont 8/26/2012 10:01",
+		"initialize" : "DiegoLont 2/3/2011 15:14",
+		"isCollectionField" : "DiegoLont 4/27/2011 14:32",
+		"propertySymbol" : "StephanEggermont 1/31/2011 14:03",
+		"propertySymbol:" : "StephanEggermont 1/31/2011 14:02",
+		"readonlyWidgetFor:on:" : "DiegoLont 4/26/2011 16:25",
+		"readonlyWidgetFor:on:panel:" : "DiegoLont 4/27/2011 13:14",
+		"show:" : "DiegoLont 4/27/2011 14:19",
+		"stringValueOf:" : "StephanEggermont 1/27/2011 16:07" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "Deltawerken-Core-Fields",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rows",
+		"columns",
+		"labelInfo",
+		"matcher" ],
+	"name" : "DEMemoField",
+	"pools" : [
+		 ],
+	"super" : "DEField",
+	"type" : "normal" }

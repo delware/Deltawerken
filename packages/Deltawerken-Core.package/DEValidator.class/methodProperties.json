@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adaptedValue:" : "StephanEggermont 5/2/2011 14:51",
+		"beOptional" : "StephanEggermont 5/2/2011 14:51",
+		"beRequired" : "StephanEggermont 5/2/2011 14:51",
+		"errorMessageFor:" : "StephanEggermont 5/2/2011 14:51",
+		"errorMessageFor:subject:" : "StephanEggermont 5/2/2011 14:51",
+		"format:" : "StephanEggermont 5/2/2011 14:51",
+		"fullUpdate" : "DiegoLont 5/19/2011 11:13",
+		"inValidate" : "StephanEggermont 5/2/2011 14:51",
+		"info" : "DiegoLont 5/19/2011 11:12",
+		"isValid:" : "StephanEggermont 5/2/2011 14:51",
+		"isValid:subject:" : "StephanEggermont 5/2/2011 14:51",
+		"isValidError:subject:" : "StephanEggermont 5/2/2011 14:51",
+		"required" : "StephanEggermont 5/2/2011 14:51",
+		"required:" : "StephanEggermont 5/2/2011 14:51",
+		"validate" : "StephanEggermont 5/2/2011 14:51",
+		"validated" : "StephanEggermont 5/2/2011 14:51" } }

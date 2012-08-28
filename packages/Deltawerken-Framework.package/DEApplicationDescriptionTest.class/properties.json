@@ -1,0 +1,14 @@
+{
+	"category" : "Deltawerken-Framework-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DEApplicationDescriptionTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfDeltawerken",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfDeltawerken",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

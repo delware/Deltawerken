@@ -1,0 +1,3 @@
+accessing
+canSearch
+	^self subclassResponsibility

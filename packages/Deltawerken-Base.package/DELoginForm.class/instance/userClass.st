@@ -1,0 +1,3 @@
+accessing
+userClass
+	^DEUser

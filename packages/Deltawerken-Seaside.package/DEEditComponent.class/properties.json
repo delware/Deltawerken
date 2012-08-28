@@ -1,0 +1,31 @@
+{
+	"category" : "Deltawerken-Seaside-Component",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"expired",
+		"builder",
+		"isNew",
+		"subject",
+		"infoText",
+		"title",
+		"customActions",
+		"displayTable",
+		"fieldList",
+		"original",
+		"editDivId",
+		"focus",
+		"focusId",
+		"editTableClass",
+		"footerText",
+		"fieldComponent",
+		"checkAll",
+		"expireAnnouncement" ],
+	"name" : "DEEditComponent",
+	"pools" : [
+		 ],
+	"super" : "DEComponent",
+	"type" : "normal" }

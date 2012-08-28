@@ -1,0 +1,1 @@
+DEPageChoice is a tab component, that displays one page at a time. It uses announcements to switch pages, to decouple it from the trigger to change pages.

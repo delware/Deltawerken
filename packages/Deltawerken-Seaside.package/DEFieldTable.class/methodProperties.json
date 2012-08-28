@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"renderAction:for:on:" : "StephanEggermont 5/2/2011 14:58",
+		"renderContentFor:on:" : "StephanEggermont 5/2/2011 14:58",
+		"renderContentFor:on:fields:" : "StephanEggermont 5/2/2011 14:58",
+		"renderInfoFor:field:on:" : "StephanEggermont 5/2/2011 14:58",
+		"renderLabelFor:field:on:" : "StephanEggermont 5/2/2011 14:58",
+		"renderRowFor:field:on:" : "StephanEggermont 5/2/2011 15:50",
+		"renderWidgetFor:field:on:" : "StephanEggermont 5/2/2011 14:58" } }

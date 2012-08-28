@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"children" : "DiegoLont 2/14/2012 14:36",
+		"createEditComponent" : "DiegoLont 2/14/2012 14:52",
+		"editComponent" : "DiegoLont 2/14/2012 15:07",
+		"invalidCombinationText" : "DiegoLont 8/22/2011 17:27",
+		"loggedInText" : "DiegoLont 8/22/2011 17:25",
+		"login" : "DiegoLont 2/14/2012 15:13",
+		"loginid" : "DiegoLont 2/14/2012 14:38",
+		"logout" : "DiegoLont 2/14/2012 15:10",
+		"logoutButtonText" : "DiegoLont 12/20/2011 10:59",
+		"passwordHash" : "DiegoLont 2/14/2012 15:13",
+		"passwordLabel" : "DiegoLont 12/20/2011 10:39",
+		"renderComponentOn:" : "DiegoLont 2/14/2012 14:36",
+		"renderContentOn:" : "DiegoLont 2/14/2012 14:44",
+		"renderLoginOn:" : "DiegoLont 2/14/2012 14:30",
+		"renderLogoutOn:" : "DiegoLont 12/20/2011 10:59",
+		"renderTableOn:" : "DiegoLont 12/21/2011 11:59",
+		"renderTitleOn:" : "DiegoLont 2/14/2012 15:09",
+		"states" : "DiegoLont 2/14/2012 14:37",
+		"title" : "DiegoLont 12/21/2011 12:01",
+		"userClass" : "DiegoLont 8/22/2011 17:31",
+		"useridLabel" : "DiegoLont 12/20/2011 10:39",
+		"welcomeText" : "DiegoLont 2/14/2012 14:45" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Deltawerken-Core-Fields",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"triggerId",
+		"futureDate" ],
+	"name" : "DEDateField",
+	"pools" : [
+		 ],
+	"super" : "DEField",
+	"type" : "normal" }

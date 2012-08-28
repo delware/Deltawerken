@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addSubject:isNew:" : "StephanEggermont 5/2/2011 15:53",
+		"answerOk" : "StephanEggermont 5/2/2011 15:00",
+		"cancelButton" : "StephanEggermont 5/2/2011 15:00",
+		"cancelText" : "StephanEggermont 5/2/2011 15:00",
+		"cancelText:" : "StephanEggermont 5/2/2011 15:00",
+		"createButton" : "StephanEggermont 5/2/2011 15:53",
+		"createCancelButton" : "StephanEggermont 5/2/2011 15:00",
+		"createForm" : "StephanEggermont 5/2/2011 15:53",
+		"doCancel" : "StephanEggermont 5/2/2011 15:00",
+		"doSave" : "StephanEggermont 5/2/2011 15:00",
+		"form" : "StephanEggermont 5/2/2011 15:00",
+		"hasRequiredField" : "StephanEggermont 5/2/2011 15:00",
+		"initialize" : "StephanEggermont 5/2/2011 15:00",
+		"renderContentOn:" : "StephanEggermont 5/2/2011 15:00",
+		"renderRequiredTextOn:" : "StephanEggermont 5/2/2011 15:00",
+		"requiredClass" : "StephanEggermont 5/2/2011 15:00",
+		"requiredText" : "StephanEggermont 5/2/2011 15:00",
+		"requiredText:" : "StephanEggermont 5/2/2011 15:00",
+		"saveButton" : "StephanEggermont 5/2/2011 15:00",
+		"saveText" : "StephanEggermont 5/2/2011 15:00",
+		"saveText:" : "StephanEggermont 5/2/2011 15:00",
+		"updateButtons" : "StephanEggermont 5/2/2011 15:00" } }

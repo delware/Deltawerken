@@ -1,0 +1,14 @@
+{
+	"category" : "Deltawerken-Base-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DiegoLont 4/11/2012 13:11",
+	"instvars" : [
+		 ],
+	"name" : "DEGoHome",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

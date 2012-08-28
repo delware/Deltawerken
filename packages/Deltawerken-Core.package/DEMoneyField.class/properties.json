@@ -1,0 +1,14 @@
+{
+	"category" : "Deltawerken-Core-Fields",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DEMoneyField",
+	"pools" : [
+		 ],
+	"super" : "DENumberField",
+	"type" : "normal" }

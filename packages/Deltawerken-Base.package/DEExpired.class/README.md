@@ -1,0 +1,1 @@
+DEExpired is announced if a page is displayed of an expired session

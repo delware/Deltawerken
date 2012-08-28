@@ -1,0 +1,1 @@
+DEDomainObject is a base class for domain objects. It provides default functionality for most domain objects, like implementation of fields, editfields and such. One does not require to use this class, but one needs to implement the methods of this class.

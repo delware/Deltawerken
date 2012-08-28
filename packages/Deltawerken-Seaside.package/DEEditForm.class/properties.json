@@ -1,0 +1,21 @@
+{
+	"category" : "Deltawerken-Seaside-Component",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"form",
+		"saveTextNew",
+		"saveTextExisting",
+		"saveButton",
+		"hasCancel",
+		"cancelButton",
+		"saveAction",
+		"requiredText" ],
+	"name" : "DEEditForm",
+	"pools" : [
+		 ],
+	"super" : "DEEditComponent",
+	"type" : "normal" }

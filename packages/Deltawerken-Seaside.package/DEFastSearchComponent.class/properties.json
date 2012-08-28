@@ -1,0 +1,16 @@
+{
+	"category" : "Deltawerken-Seaside-Component",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"searchValue",
+		"searchLabel",
+		"searchBlock" ],
+	"name" : "DEFastSearchComponent",
+	"pools" : [
+		 ],
+	"super" : "DESearchComponent",
+	"type" : "normal" }

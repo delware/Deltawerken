@@ -1,0 +1,14 @@
+{
+	"category" : "Deltawerken-Core-Fields",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"propertySymbol" ],
+	"name" : "DECollectionField",
+	"pools" : [
+		 ],
+	"super" : "DEDomainField",
+	"type" : "normal" }

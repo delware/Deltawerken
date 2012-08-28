@@ -1,0 +1,3 @@
+rendering
+renderSearchTableOn: canvas
+	self subclassResponsibility

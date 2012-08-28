@@ -1,0 +1,17 @@
+{
+	"category" : "Deltawerken-Core-Validation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"updateBlock",
+		"fieldSymbol",
+		"triggerId" ],
+	"name" : "DEUpdater",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"category" : "Deltawerken-Seaside-Component",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"formId",
+		"formClass",
+		"title",
+		"subject",
+		"propertySymbol",
+		"fields" ],
+	"name" : "DESearchComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

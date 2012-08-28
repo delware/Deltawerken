@@ -1,0 +1,17 @@
+{
+	"category" : "Deltawerken-Core-Validation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"validateBlock",
+		"formatBlock",
+		"errorBlock",
+		"invalidBlock" ],
+	"name" : "DECustomValidator",
+	"pools" : [
+		 ],
+	"super" : "DEValidator",
+	"type" : "normal" }

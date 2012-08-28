@@ -1,0 +1,17 @@
+{
+	"category" : "Deltawerken-Actions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"preCondition",
+		"action",
+		"isAllowedFor",
+		"view" ],
+	"name" : "DEGenericWorkflowAction",
+	"pools" : [
+		 ],
+	"super" : "DEWorkflowAction",
+	"type" : "normal" }

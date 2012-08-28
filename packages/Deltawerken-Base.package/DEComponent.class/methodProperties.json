@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"announce:" : "DiegoLont 8/26/2012 10:41",
+		"announcer" : "StephanEggermont 4/29/2011 00:19",
+		"announcer:" : "StephanEggermont 4/29/2011 00:19",
+		"ifLoggedIn:" : "StephanEggermont 4/29/2011 00:19",
+		"isLoggedIn" : "StephanEggermont 4/29/2011 00:19",
+		"newAnnouncerUntil:" : "StephanEggermont 4/29/2011 00:19",
+		"renderContentOn:" : "StephanEggermont 4/29/2011 00:19",
+		"resetAnnouncer" : "StephanEggermont 4/29/2011 00:19",
+		"user" : "StephanEggermont 4/29/2011 00:19",
+		"user:" : "StephanEggermont 4/29/2011 00:19",
+		"username" : "DiegoLont 8/22/2011 17:27" } }

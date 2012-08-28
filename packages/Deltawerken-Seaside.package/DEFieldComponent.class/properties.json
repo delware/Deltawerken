@@ -1,0 +1,19 @@
+{
+	"category" : "Deltawerken-Seaside-Component",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cachedFields",
+		"cacheClass",
+		"builder",
+		"requiredStar",
+		"panel",
+		"showBlock" ],
+	"name" : "DEFieldComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

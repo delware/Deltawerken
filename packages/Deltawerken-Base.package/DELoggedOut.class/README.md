@@ -1,0 +1,1 @@
+DELoggedOut is announced if a user logs off

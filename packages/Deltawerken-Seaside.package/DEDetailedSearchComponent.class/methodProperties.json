@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"canSearch" : "DiegoLont 8/22/2011 16:52",
+		"clearFields" : "DiegoLont 8/22/2011 16:52",
+		"createFields" : "DiegoLont 2/3/2012 13:45",
+		"createSearchData" : "DiegoLont 8/22/2011 16:52",
+		"hasMatch:" : "DiegoLont 8/22/2011 16:52",
+		"isFieldMulti:" : "DiegoLont 8/22/2011 16:52",
+		"renderCriteriaOn:" : "DiegoLont 2/6/2012 15:41",
+		"renderField:on:" : "DiegoLont 2/3/2012 13:51",
+		"renderSearchTableOn:" : "DiegoLont 8/22/2011 16:52",
+		"searchData" : "DiegoLont 8/22/2011 16:52",
+		"switchMultiFor:" : "DiegoLont 8/22/2011 16:52" } }

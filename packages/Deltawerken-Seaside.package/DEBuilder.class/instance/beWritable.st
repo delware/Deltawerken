@@ -1,0 +1,3 @@
+accessing
+beWritable
+	readonly := false

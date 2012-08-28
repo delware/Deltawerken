@@ -1,0 +1,15 @@
+{
+	"category" : "Deltawerken-Base-User",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DiegoLont 8/21/2011 14:45",
+	"instvars" : [
+		"userid",
+		"passwordHash" ],
+	"name" : "DEUser",
+	"pools" : [
+		 ],
+	"super" : "DEDomainObject",
+	"type" : "normal" }

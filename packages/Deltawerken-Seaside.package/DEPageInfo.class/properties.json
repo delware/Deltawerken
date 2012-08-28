@@ -1,0 +1,15 @@
+{
+	"category" : "Deltawerken-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"divClass",
+		"divId" ],
+	"name" : "DEPageInfo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

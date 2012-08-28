@@ -1,0 +1,21 @@
+{
+	"category" : "Deltawerken-Seaside-Component",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"searchLabel",
+		"resultsBlock",
+		"target",
+		"accessor",
+		"actionButton",
+		"form",
+		"clearButton",
+		"clearLabel" ],
+	"name" : "DESearchPanel",
+	"pools" : [
+		 ],
+	"super" : "DEPanel",
+	"type" : "normal" }

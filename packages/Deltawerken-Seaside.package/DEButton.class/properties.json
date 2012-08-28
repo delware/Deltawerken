@@ -1,0 +1,15 @@
+{
+	"category" : "Deltawerken-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"label",
+		"isCancel" ],
+	"name" : "DEButton",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

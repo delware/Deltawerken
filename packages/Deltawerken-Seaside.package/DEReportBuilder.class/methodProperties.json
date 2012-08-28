@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCustomColumn:" : "DiegoLont 4/3/2012 15:42",
+		"addCustomUpdater:" : "DiegoLont 4/3/2012 15:45",
+		"builder" : "DiegoLont 4/3/2012 16:00",
+		"createDivReportFrom:" : "DiegoLont 4/3/2012 15:51",
+		"createReport" : "DiegoLont 4/3/2012 15:52",
+		"createReportFrom:" : "DiegoLont 4/3/2012 15:52",
+		"createReportFrom:accessor:" : "DiegoLont 4/3/2012 15:54",
+		"customColumns" : "DiegoLont 4/3/2012 15:42",
+		"fields" : "DiegoLont 4/3/2012 15:51",
+		"keepOrder" : "DiegoLont 4/3/2012 15:48",
+		"propertySymbol" : "DiegoLont 4/3/2012 15:49",
+		"propertySymbol:" : "DiegoLont 4/3/2012 15:48",
+		"removeCustomActions" : "DiegoLont 4/3/2012 15:42",
+		"sorted" : "DiegoLont 4/3/2012 15:42",
+		"subject:" : "DiegoLont 4/3/2012 15:59" } }

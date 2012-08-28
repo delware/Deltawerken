@@ -1,0 +1,14 @@
+{
+	"category" : "Deltawerken-Core-Fields",
+	"classinstvars" : [
+		"defaultStrategy" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DESearchStrategy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+fields
+initialEditFields
+	^#( useridField passwordField )

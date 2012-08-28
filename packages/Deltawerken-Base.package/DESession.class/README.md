@@ -1,0 +1,1 @@
+DESession is a session object that contains user data and an announcer. It allows to announce things along the session

@@ -1,0 +1,15 @@
+{
+	"category" : "Deltawerken-Core-Fields",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fieldSize",
+		"tabIndex" ],
+	"name" : "DEStringField",
+	"pools" : [
+		 ],
+	"super" : "DEField",
+	"type" : "normal" }

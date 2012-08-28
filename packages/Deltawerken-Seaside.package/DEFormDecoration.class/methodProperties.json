@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"on:save:cancel:" : "StephanEggermont 5/2/2011 15:51" },
+	"instance" : {
+		"addButton:" : "StephanEggermont 5/2/2011 15:02",
+		"buttons" : "StephanEggermont 5/2/2011 15:02",
+		"buttons:" : "StephanEggermont 5/2/2011 15:02",
+		"defaultButton" : "StephanEggermont 5/2/2011 15:02",
+		"defaultButton:" : "StephanEggermont 5/2/2011 15:02",
+		"formClass" : "StephanEggermont 5/2/2011 15:02",
+		"formClass:" : "StephanEggermont 5/2/2011 15:02",
+		"formId" : "StephanEggermont 5/2/2011 15:02",
+		"formId:" : "StephanEggermont 5/2/2011 15:02",
+		"removeButton:" : "StephanEggermont 5/2/2011 15:02",
+		"renderButtonsOn:" : "StephanEggermont 5/2/2011 15:02",
+		"renderContentOn:" : "StephanEggermont 5/2/2011 15:02" } }

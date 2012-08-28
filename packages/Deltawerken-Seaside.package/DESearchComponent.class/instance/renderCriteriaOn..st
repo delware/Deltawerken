@@ -1,0 +1,3 @@
+rendering
+renderCriteriaOn: canvas
+	self subclassResponsibility

@@ -1,0 +1,14 @@
+{
+	"category" : "Deltawerken-Seaside-Component",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DEFieldSpansOverview",
+	"pools" : [
+		 ],
+	"super" : "DEFieldOverview",
+	"type" : "normal" }

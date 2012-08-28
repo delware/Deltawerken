@@ -1,0 +1,18 @@
+{
+	"category" : "Deltawerken-Seaside-Component",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pages",
+		"pageInfoData",
+		"title",
+		"divId",
+		"divClass" ],
+	"name" : "DEPanel",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

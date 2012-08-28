@@ -1,0 +1,3 @@
+fields
+loginFields
+	^#( #useridField #passwordField )

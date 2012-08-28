@@ -1,0 +1,3 @@
+accessing
+defaultSearchStrategy
+	^DESearchStrategy defaultStrategy

@@ -1,0 +1,14 @@
+{
+	"category" : "Deltawerken-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DEFileLibrary",
+	"pools" : [
+		 ],
+	"super" : "WAFileLibrary",
+	"type" : "normal" }

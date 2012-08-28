@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"fields" : "DiegoLont 8/21/2011 14:47",
+		"on:" : "DiegoLont 8/21/2011 14:47",
+		"passwordField" : "DiegoLont 8/21/2011 14:49",
+		"passwordVerifyField" : "DiegoLont 8/21/2011 14:49",
+		"usernameField" : "DiegoLont 8/21/2011 14:49" },
+	"instance" : {
+		"initialize:" : "DiegoLont 8/21/2011 14:47",
+		"password" : "DiegoLont 8/21/2011 14:47",
+		"password:" : "DiegoLont 8/21/2011 14:47",
+		"passwordVerify" : "DiegoLont 8/21/2011 14:47",
+		"passwordVerify:" : "DiegoLont 8/21/2011 14:47",
+		"user" : "DiegoLont 8/21/2011 14:47" } }

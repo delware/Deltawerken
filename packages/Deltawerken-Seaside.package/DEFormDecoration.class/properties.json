@@ -1,0 +1,17 @@
+{
+	"category" : "Deltawerken-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"formId",
+		"formClass",
+		"buttons",
+		"defaultButton" ],
+	"name" : "DEFormDecoration",
+	"pools" : [
+		 ],
+	"super" : "WADecoration",
+	"type" : "normal" }

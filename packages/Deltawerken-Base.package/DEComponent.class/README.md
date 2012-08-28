@@ -1,0 +1,1 @@
+DEComponent is a base component, that can access an announcer and user functionality. 

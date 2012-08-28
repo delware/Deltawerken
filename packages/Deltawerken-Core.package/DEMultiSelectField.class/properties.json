@@ -1,0 +1,16 @@
+{
+	"category" : "Deltawerken-Core-Fields",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"listSize",
+		"allValue",
+		"noneValue" ],
+	"name" : "DEMultiSelectField",
+	"pools" : [
+		 ],
+	"super" : "DESelectField",
+	"type" : "normal" }

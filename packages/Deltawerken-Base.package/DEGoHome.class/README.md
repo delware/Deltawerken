@@ -1,0 +1,1 @@
+DEGoHome is used to indicate to go back to the main page

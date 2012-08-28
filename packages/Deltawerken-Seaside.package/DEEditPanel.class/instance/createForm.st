@@ -1,0 +1,3 @@
+initialization
+createForm
+	^DEFormDecoration new

@@ -1,0 +1,3 @@
+accessing
+removeCustomActions
+	self builder removeCustomActions

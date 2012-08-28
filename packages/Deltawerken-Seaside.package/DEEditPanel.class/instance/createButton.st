@@ -1,0 +1,3 @@
+initialization
+createButton
+	^DEActionButton new

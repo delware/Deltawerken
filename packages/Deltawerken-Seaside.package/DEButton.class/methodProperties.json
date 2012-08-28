@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beCancelAction" : "StephanEggermont 5/2/2011 15:02",
+		"beSubmitAction" : "StephanEggermont 5/2/2011 15:02",
+		"buttonOn:" : "StephanEggermont 5/2/2011 15:02",
+		"isCancel" : "StephanEggermont 5/2/2011 15:02",
+		"label" : "StephanEggermont 5/2/2011 15:02",
+		"label:" : "DiegoLont 8/26/2012 15:12",
+		"renderButtonOn:" : "StephanEggermont 5/2/2011 15:02",
+		"renderOn:" : "StephanEggermont 5/2/2011 15:02" } }

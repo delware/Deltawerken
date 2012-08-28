@@ -1,0 +1,14 @@
+{
+	"category" : "Deltawerken-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DiegoLont 4/11/2012 13:04",
+	"instvars" : [
+		 ],
+	"name" : "DEComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

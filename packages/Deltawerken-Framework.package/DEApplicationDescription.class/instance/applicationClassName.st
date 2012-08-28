@@ -1,0 +1,3 @@
+accessing
+applicationClassName
+	^self class applicationClassName

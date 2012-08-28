@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createUpdaterOn:field:subject:id:" : "DiegoLont 8/22/2011 22:04",
+		"fieldSymbol" : "StephanEggermont 5/2/2011 14:50",
+		"fieldSymbol:" : "StephanEggermont 5/2/2011 14:50",
+		"id" : "StephanEggermont 5/2/2011 14:50",
+		"id:" : "StephanEggermont 5/2/2011 14:50",
+		"idWidgetFor:field:on:" : "StephanEggermont 5/2/2011 14:50",
+		"idWidgetFor:field:on:updaterId:" : "StephanEggermont 5/2/2011 14:50",
+		"onChange:field:subject:id:" : "StephanEggermont 5/2/2011 14:50",
+		"renderErrorMessageFor:field:on:" : "StephanEggermont 5/2/2011 14:50",
+		"update:" : "StephanEggermont 5/2/2011 14:50",
+		"updateBlock" : "StephanEggermont 5/2/2011 14:50",
+		"updateBlock:" : "StephanEggermont 5/2/2011 14:50",
+		"widgetFor:field:on:" : "StephanEggermont 5/2/2011 14:50",
+		"widgetOnlyFor:field:on:updaterId:" : "DiegoLont 8/22/2011 10:11" } }

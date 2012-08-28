@@ -1,0 +1,28 @@
+{
+	"category" : "Deltawerken-Core-Fields",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DiegoLont 4/11/2012 13:00",
+	"instvars" : [
+		"key",
+		"accessor",
+		"label",
+		"info",
+		"sorted",
+		"reverse",
+		"searchStrategy",
+		"readonly",
+		"validator",
+		"updater",
+		"inputId",
+		"editInfo",
+		"summarySize",
+		"sortBlock",
+		"columnClass" ],
+	"name" : "DEField",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

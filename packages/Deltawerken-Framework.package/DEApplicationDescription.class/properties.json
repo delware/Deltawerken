@@ -1,0 +1,18 @@
+{
+	"category" : "Deltawerken-Framework",
+	"classinstvars" : [
+		"singleton",
+		"isRoot",
+		"fieldDescriptions" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DiegoLont 8/27/2012 13:02",
+	"instvars" : [
+		"applicationClass",
+		"libraryClass",
+		"domainClassDescriptions" ],
+	"name" : "DEApplicationDescription",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

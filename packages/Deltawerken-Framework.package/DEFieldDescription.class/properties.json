@@ -1,0 +1,15 @@
+{
+	"category" : "Deltawerken-Framework",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"domainClassDescription",
+		"fieldName" ],
+	"name" : "DEFieldDescription",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

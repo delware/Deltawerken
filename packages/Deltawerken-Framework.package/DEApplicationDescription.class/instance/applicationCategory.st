@@ -1,0 +1,3 @@
+accessing
+applicationCategory
+	^self class applicationCategory

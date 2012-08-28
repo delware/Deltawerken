@@ -1,0 +1,3 @@
+accessing
+hasValidation
+	^self fieldComponent hasValidation

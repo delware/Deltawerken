@@ -1,0 +1,3 @@
+fields
+cardFields
+	^self editFields

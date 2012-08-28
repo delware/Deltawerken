@@ -1,0 +1,1 @@
+DEUserPassword is a domain object that helps with the presentation of a password change. It stores a reference to the user and allows the entry of both a password and a verification.

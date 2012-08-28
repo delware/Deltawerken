@@ -1,0 +1,3 @@
+accessing
+resetAnnouncer
+	announcer := nil

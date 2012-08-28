@@ -1,0 +1,15 @@
+{
+	"category" : "Deltawerken-Actions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"label",
+		"url" ],
+	"name" : "DEWorkflowAction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

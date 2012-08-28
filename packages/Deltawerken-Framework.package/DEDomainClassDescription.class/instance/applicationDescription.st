@@ -1,0 +1,3 @@
+accessing
+applicationDescription
+	^ applicationDescription

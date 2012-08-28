@@ -1,0 +1,3 @@
+accessing
+domainClassCategory
+	^self class domainClassCategory

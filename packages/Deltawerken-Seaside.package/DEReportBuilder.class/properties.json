@@ -1,0 +1,16 @@
+{
+	"category" : "Deltawerken-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"builder",
+		"customColumns",
+		"sorted" ],
+	"name" : "DEReportBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

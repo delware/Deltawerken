@@ -1,0 +1,3 @@
+accessing
+formClass
+	^form formClass

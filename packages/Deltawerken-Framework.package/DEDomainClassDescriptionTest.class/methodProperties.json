@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"removeClass:" : "DiegoLont 8/27/2012 15:21",
+		"setUp" : "DiegoLont 8/27/2012 15:12",
+		"tearDown" : "DiegoLont 8/27/2012 15:21",
+		"testAddDomainClass" : "DiegoLont 8/27/2012 15:12" } }

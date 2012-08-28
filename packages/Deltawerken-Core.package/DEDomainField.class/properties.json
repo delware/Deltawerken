@@ -1,0 +1,15 @@
+{
+	"category" : "Deltawerken-Core-Fields",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"domainClass",
+		"panel" ],
+	"name" : "DEDomainField",
+	"pools" : [
+		 ],
+	"super" : "DEField",
+	"type" : "normal" }

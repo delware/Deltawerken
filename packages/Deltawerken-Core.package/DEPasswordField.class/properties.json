@@ -1,0 +1,14 @@
+{
+	"category" : "Deltawerken-Core-Fields",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"required" ],
+	"name" : "DEPasswordField",
+	"pools" : [
+		 ],
+	"super" : "DEStringField",
+	"type" : "normal" }

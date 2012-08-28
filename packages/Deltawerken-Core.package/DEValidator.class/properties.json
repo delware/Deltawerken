@@ -1,0 +1,15 @@
+{
+	"category" : "Deltawerken-Core-Validation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"validated",
+		"required" ],
+	"name" : "DEValidator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
