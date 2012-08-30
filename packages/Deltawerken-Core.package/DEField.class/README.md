@@ -7,12 +7,12 @@ Instance Variables:
 	info 		information that can be displayed in a mouse over.
 	sorted 		indicates if one can sort on this field
 	reverse	defeault search order
-	searchStrategy	<ProtoObject>
+	searchStrategy	<DESearchStrategy>
 	readonly	<Boolean>
-	validator	<DEValidator | SEValidator>
+	validator	<DEValidator>
 	updater	<DEUpdater>
-	inputId	<ProtoObject | PseudoContext>
-	editInfo	<ProtoObject>
+	inputId 		<Object>
+	editInfo		<ProtoObject>
 	summarySize	<ProtoObject>
 	sortBlock	<ProtoObject>
 	columnClass	<ProtoObject>

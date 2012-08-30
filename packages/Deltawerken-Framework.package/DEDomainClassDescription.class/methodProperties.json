@@ -2,15 +2,23 @@
 	"class" : {
 		"on:name:" : "DiegoLont 8/26/2012 17:54" },
 	"instance" : {
+		"addCollection:of:" : "DiegoLont 8/29/2012 10:57",
 		"applicationDescription" : "DiegoLont 8/26/2012 17:53",
 		"applicationDescription:" : "DiegoLont 8/26/2012 17:53",
+		"beRoot" : "DiegoLont 8/29/2012 10:13",
+		"classVariableNames" : "DiegoLont 8/29/2012 10:18",
+		"default" : "DiegoLont 8/29/2012 10:25",
 		"domainClass" : "DiegoLont 8/26/2012 17:58",
 		"domainClassCategory" : "DiegoLont 8/26/2012 18:19",
 		"domainClassFullName" : "DiegoLont 8/26/2012 18:20",
 		"domainClassName" : "DiegoLont 8/26/2012 17:54",
 		"domainClassName:" : "DiegoLont 8/26/2012 17:54",
+		"fieldDescriptions" : "DiegoLont 8/29/2012 10:20",
 		"generate" : "DiegoLont 8/26/2012 17:58",
-		"generateDomainClass" : "DiegoLont 8/26/2012 18:04",
-		"generateFieldMethodsTo:" : "DiegoLont 8/26/2012 18:23",
-		"instanceVariableNames" : "DiegoLont 8/26/2012 18:03",
-		"prefix" : "DiegoLont 8/26/2012 18:20" } }
+		"generateClassMethodsTo:" : "DiegoLont 8/29/2012 11:06",
+		"generateDomainClass" : "DiegoLont 8/29/2012 10:53",
+		"generateFieldsTo:" : "DiegoLont 8/29/2012 10:39",
+		"instanceVariableNames" : "DiegoLont 8/29/2012 10:54",
+		"isRoot" : "DiegoLont 8/29/2012 10:14",
+		"prefix" : "DiegoLont 8/26/2012 18:20",
+		"regenerate" : "DiegoLont 8/29/2012 10:14" } }

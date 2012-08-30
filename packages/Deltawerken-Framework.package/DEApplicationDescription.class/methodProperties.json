@@ -1,20 +1,17 @@
 {
 	"class" : {
-		"addCollection:of:" : "DiegoLont 8/26/2012 18:35",
-		"addDomainClass:" : "DiegoLont 8/26/2012 18:18",
+		"addDomainClass:" : "DiegoLont 8/29/2012 10:09",
 		"applicationCategory" : "DiegoLont 4/4/2012 13:32",
 		"applicationClassName" : "DiegoLont 8/27/2012 13:27",
 		"applicationName" : "DiegoLont 4/4/2012 13:20",
-		"beRoot" : "DiegoLont 8/26/2012 18:32",
 		"domainClassCategory" : "DiegoLont 8/26/2012 18:20",
-		"fieldDescriptions" : "DiegoLont 8/26/2012 18:36",
 		"libraryClassName" : "DiegoLont 4/11/2012 11:33",
 		"newApplication:prefix:category:" : "DiegoLont 8/26/2012 17:29",
 		"prefix" : "DiegoLont 4/4/2012 13:19",
 		"regenerate" : "DiegoLont 4/11/2012 11:44",
 		"singleton" : "DiegoLont 4/4/2012 14:05" },
 	"instance" : {
-		"addDomainClass:" : "DiegoLont 8/26/2012 17:57",
+		"addDomainClass:" : "DiegoLont 8/29/2012 10:32",
 		"applicationCategory" : "DiegoLont 4/4/2012 14:17",
 		"applicationClass" : "DiegoLont 4/11/2012 11:34",
 		"applicationClassName" : "DiegoLont 4/4/2012 14:17",

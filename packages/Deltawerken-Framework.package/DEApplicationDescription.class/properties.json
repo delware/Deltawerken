@@ -1,9 +1,7 @@
 {
 	"category" : "Deltawerken-Framework",
 	"classinstvars" : [
-		"singleton",
-		"isRoot",
-		"fieldDescriptions" ],
+		"singleton" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "DiegoLont 8/27/2012 13:02",

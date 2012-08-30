@@ -8,7 +8,9 @@
 	"instvars" : [
 		"applicationDescription",
 		"domainClassName",
-		"domainClass" ],
+		"domainClass",
+		"isRoot",
+		"fieldDescriptions" ],
 	"name" : "DEDomainClassDescription",
 	"pools" : [
 		 ],

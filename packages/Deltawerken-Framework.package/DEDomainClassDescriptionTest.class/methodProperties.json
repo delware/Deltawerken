@@ -4,5 +4,7 @@
 	"instance" : {
 		"removeClass:" : "DiegoLont 8/27/2012 15:21",
 		"setUp" : "DiegoLont 8/27/2012 15:12",
-		"tearDown" : "DiegoLont 8/27/2012 15:21",
-		"testAddDomainClass" : "DiegoLont 8/27/2012 15:12" } }
+		"tearDown" : "DiegoLont 8/29/2012 10:33",
+		"testAddCollectionToDomainClass" : "DiegoLont 8/29/2012 10:37",
+		"testAddDomainClass" : "DiegoLont 8/29/2012 10:24",
+		"testRootDomainClass" : "DiegoLont 8/29/2012 10:29" } }
